@@ -4,10 +4,11 @@ Difficulty Levels
 
 Choose from four difficulty settings:
 
-Normal – Standard gameplay with 5 lives
-Hard – Faster ball speed with 3 lives
-Power Game – Includes power-ups with 3 lives
-Insane – Extreme difficulty with fewer lives and shrinking paddle power-ups
+Normal is the Standard gameplay with 5 lives
+Hard mode is Faster ball speed with 3 lives
+Power Game Includes power-ups with 3 lives
+Insane Extreme difficulty with fewer lives and power-ups that debuff the player
+
 Game Modes
 Normal Mode
 
@@ -48,14 +49,3 @@ Speed Up Paddle
 
 Temporarily increases paddle movement speed.
 
-HUD (Heads-Up Display)
-
-The in-game HUD displays:
-
-Current Score
-Remaining Lives
-Current Round
-Replay & Reset
-Restart the current game at any time.
-Return to the main menu and start a new game.
-Reset progress and begin a fresh match.
